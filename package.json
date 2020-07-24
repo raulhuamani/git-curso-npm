@@ -10,7 +10,8 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "mongoose": "^5.9.25"
   },
   "devDependencies": {
     "jshint": "^2.11.1"
